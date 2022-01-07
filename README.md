@@ -8,4 +8,9 @@ Here are some ideas to get you started:
 - 😍 Amo linguagens de programação e dados...
 - 🌱 Estudando R e Python...
 - 😎 Sempre procuro aprender coisas novas...
+
+
 -->
+
+
+<img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
