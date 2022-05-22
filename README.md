@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src=https://github.com/Mat3usCod3/Mat3usCod3/blob/main/editado%20big%20data.jpg?raw=true/>
-</p>
-
 ### Hi everybody! 👋😄
 
 My name is Mateus! Nice to meet you here!!! 😉
