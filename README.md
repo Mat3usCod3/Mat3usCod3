@@ -1,14 +1,21 @@
-### Hi everybody 👋
+### Hi everybody! 👋😄
 
-My name is Mateus! Nice to meet! 😚
+My name is Mateus! Nice to meet you here!!! 😉
 
-<!--
-**Mat3usCod3/Mat3usCod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Abaut me...* 😎
 
-
-- 🔍 I am currently looking for an opportunity working;
+- 🖤 I'm fascinated for technologie;
 - 🌱 I’m currently learning Python, data base, PowerBi, and process etl;
--->
+- 🕓 In the free time, i'm like working in my small projects.
+- 🙌 i'm very excited for my first opportunity work;
+
+#### Top languages:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
+
+          
+          
+          
+
 
 
           
