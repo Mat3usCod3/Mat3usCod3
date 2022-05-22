@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Mat3usCod3/resistencia-de-um-resistor/blob/main/r%20img.jpg?raw=true"/>
+  <img src=https://github.com/Mat3usCod3/Mat3usCod3/blob/main/editado%20big%20data.jpg?raw=true/>
 </p>
 
 ### Hi everybody! 👋😄
