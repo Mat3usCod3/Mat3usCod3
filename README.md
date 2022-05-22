@@ -1,9 +1,4 @@
 ### Olá, Mateus na área! 👋
 
-<!--
-- 😍 Amo linguagens de programação e dados...
-- 🌱 Estudando banco de dados e Python...
-- 😎 Sempre procuro aprender coisas novas...
--->
 
 
