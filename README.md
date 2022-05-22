@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/Mat3usCod3/resistencia-de-um-resistor/blob/main/r%20img.jpg?raw=true"/>
+</p>
+
 ### Hi everybody! 👋😄
 
 My name is Mateus! Nice to meet you here!!! 😉
