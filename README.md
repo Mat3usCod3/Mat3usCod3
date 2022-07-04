@@ -5,7 +5,7 @@ My name is Mateus! Nice to meet you here!!! 😉
 *Abaut me...* 😎
 
 - 🖤 I'm fascinated for technologie;
-- 🌱 I’m currently learning Python, data base, PowerBi, and process etl;
+- 🌱 I’m currently learning Python, data base, and process etl;
 - 🕓 In the free time, i'm like working in my small projects.
 - 🙌 i'm very excited for my first opportunity work;
 
