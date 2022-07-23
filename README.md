@@ -2,7 +2,7 @@
 
 My name is Mateus! Nice to meet you here!!! 😉
 
-*Abaut me...* 😎
+*Abaut-me...* 😎
 
 - 🖤 I'm fascinated for technologie;
 - 🌱 I’m currently learning Python, data base, and process etl;
