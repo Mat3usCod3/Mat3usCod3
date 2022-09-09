@@ -7,11 +7,12 @@ My name is Mateus! Nice to meet you here!!! 😉
 - 🕓 In the free time, i'm like working in my small projects.
 - 🙌 i'm very excited for my first opportunity work;
 
+
+
+<!--
 ### Languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="30" height="30"/>
-
-<!--
 
 ### Data base:
 
