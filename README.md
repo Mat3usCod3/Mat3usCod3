@@ -1,4 +1,4 @@
-### Hi everybody! 👋😄
+### Hi everybody! 👋
 
 My name is Mateus! Nice to meet you here!!! 😉
 
