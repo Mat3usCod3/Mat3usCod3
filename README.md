@@ -20,18 +20,14 @@
 ```linux
 user@Mat3uscod3:~$ sudo apt update
 [sudo] password for user:********** 
-Hit:1 https://dl.google.com/linux/chrome/deb stable InRelease
-Hit:2 http://br.archive.ubuntu.com/ubuntu kinetic InRelease                    
-Get:3 http://br.archive.ubuntu.com/ubuntu kinetic-updates InRelease [109 kB]   
-Get:4 http://br.archive.ubuntu.com/ubuntu kinetic-backports InRelease [99,9 kB]
-Get:5 http://security.ubuntu.com/ubuntu kinetic-security InRelease [109 kB]    
-Hit:6 https://packages.microsoft.com/repos/code stable InRelease             
+Hit:1 http://br.archive.ubuntu.com/ubuntu kinetic InRelease                    
+Get:2 http://br.archive.ubuntu.com/ubuntu kinetic-updates InRelease [109 kB]                   
 Fetched 533 kB in 2s (254 kB/s)
 Reading package lists... Done
 Building dependency tree... Done
 Reading state information... Done
 2 packages can be upgraded. Run 'apt list --upgradable' to see them.
-user@Mat3uscod3:~$ 
+user@Mat3uscod3:~$ exit
 ```
 
 
