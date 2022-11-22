@@ -15,7 +15,7 @@
    <a href="https://discord.com/channels/Mateus%20Menezes#2857" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-<br><br>
+<br>
 
 ```linux
 user@Mat3uscod3:~$ sudo apt update
