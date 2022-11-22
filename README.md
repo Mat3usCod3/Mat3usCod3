@@ -1,4 +1,4 @@
-<img src="https://github.com/Mat3usCod3/Mat3usCod3/blob/main/My%20profile%20Mateus%20Menezes%20(Back-and).png?raw=true" width="30" height="30"/> 
+<img src="https://github.com/Mat3usCod3/Mat3usCod3/blob/main/My%20profile%20Mateus%20Menezes%20(Back-and).png?raw=true" width="100%" height="100%"/> 
 
 ### Hi everybody! 👋
 
