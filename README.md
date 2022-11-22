@@ -19,7 +19,7 @@
 
 ```linux
 user@Mat3uscod3:~$ sudo apt update
-[sudo] password for mateus:********** 
+[sudo] password for user:********** 
 Hit:1 https://dl.google.com/linux/chrome/deb stable InRelease
 Hit:2 http://br.archive.ubuntu.com/ubuntu kinetic InRelease                    
 Get:3 http://br.archive.ubuntu.com/ubuntu kinetic-updates InRelease [109 kB]   
