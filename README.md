@@ -15,19 +15,10 @@
    <a href="https://discord.com/channels/Mateus%20Menezes#2857" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
+<br><br>
 
-```C++
-
-#include <iostream>
-
-int main() {
-
-    std::cout << "Hello World!";
-    
-    return 0;
-}
-
+```linux
+mateus@menezes:~$ sudo apt update
 ```
 
 
