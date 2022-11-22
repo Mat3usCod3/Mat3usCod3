@@ -18,7 +18,7 @@
 <br><br>
 
 ```linux
-mateus@menezes:~$ sudo apt update
+user@Mat3uscod3:~$ sudo apt update
 ```
 
 
