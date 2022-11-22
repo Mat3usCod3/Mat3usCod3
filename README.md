@@ -18,7 +18,6 @@
 <br><br>
 
 ```linux
-
 user@Mat3uscod3:~$ sudo apt update
 [sudo] password for mateus:********** 
 Hit:1 https://dl.google.com/linux/chrome/deb stable InRelease
