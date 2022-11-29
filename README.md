@@ -1,9 +1,8 @@
 ## Hi everybody! My name is Mateus, I'm backend engineer! Nice to meet! 😎
 
-<div align="center">
-  <img height="60%" width="200%" src="https://github.com/Mat3usCod3/Mat3usCod3/blob/main/My%20profile%20Mateus%20Menezes%20(Back-and).png?raw=true"/>
-</div>
- 
+```terminal
+                           mateus@bk_engineer:~$ Till now the Lord has helped us (1 Samuel 7:12)
+``` 
  <br>
 
 <div align="center">
