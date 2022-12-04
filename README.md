@@ -7,8 +7,8 @@
   <a href = "mailto:mateusmenezes1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-menezes-17613b229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/qr/GUMVYLDMVHZRP1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href="https://discord.com/channels/Mateus%20Menezes#2857" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="https://discord.com/channels/Mateus%20Menezes#2857" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  </div>
 <br>
 
 <div align="center">
@@ -32,7 +32,21 @@
     <img align="center" alt="JP-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="JP-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">   
   </div>
-
+  
+  <!--
+   <div style="display: inline_block">
+     <h2></h2>
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">       
+  </div>  
+  
+  
 <!--  
   <div>
     <h2>Next level... 🚀</h2>
