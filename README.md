@@ -17,21 +17,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat3usCod3&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<br>
-<!--
-```linux
-user@Mat3uscod3:~$ sudo apt update
-[sudo] password for user:********** 
-Hit:1 http://br.archive.ubuntu.com/ubuntu kinetic InRelease                    
-Get:2 http://br.archive.ubuntu.com/ubuntu kinetic-updates InRelease [109 kB]                   
-Fetched 533 kB in 2s (254 kB/s)
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-2 packages can be upgraded. Run 'apt list --upgradable' to see them.
-user@Mat3uscod3:~$ exit
-```
--->
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Rafa-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="JP-Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="center" alt="JP-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="JP-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">    
+  
+</div>  
+  
 
 
 
