@@ -1,5 +1,3 @@
-## Hi everybody! My name is Mateus, I'm backend engineer! Nice to meet! 😎
-
 ```terminal
 mateus@bk_engineer:~$ Till now the Lord has helped us (1 Samuel 7:12)
 ``` 
