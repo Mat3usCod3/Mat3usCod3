@@ -1,6 +1,4 @@
-```terminal
-mateus@engineer_AI:~$ Till now the Lord has helped us (1 Samuel 7:12)
-``` 
+
  <br>
 
 <div align="center">
