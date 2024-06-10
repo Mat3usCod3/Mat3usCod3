@@ -22,6 +22,7 @@
     <img align="center" alt="Mateus-ícon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
     <img align="center" alt="Mateus-ícon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
     <img align="center" alt="Mateus-ícon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+    <img align="center" alt="Mateus-ícon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
     
   
 <!--    
